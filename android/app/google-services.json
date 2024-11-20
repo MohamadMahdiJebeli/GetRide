@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "974932774075",
+    "project_id": "getride-firebase",
+    "storage_bucket": "getride-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974932774075:android:aca6eabedae0528d3b2d9e",
+        "android_client_info": {
+          "package_name": "com.example.getride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdrlr97wX_oznd9xKfI1WnVYDi6z3JkXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
