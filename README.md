@@ -2,15 +2,9 @@
 
 An app for online taxi booking.
 
-## Getting Started
+**🚕 GetRide - Taxi Booking App :** 
+This is a sample application for online taxi booking, created as a portfolio project. Please note that after sending a ride request, there is no driver available to accept it, as this app is designed solely for demonstration purposes.
 
-This project is a starting point for a Flutter application.
+## Image :
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/user-attachments/assets/98d2cdc7-e22d-4aca-b9a3-94fe81b8c1fc" alt="GetRide" width="200" />  
