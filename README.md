@@ -1,6 +1,6 @@
-# getride
+# GetRide
 
-A new Flutter project.
+An app for online taxi booking.
 
 ## Getting Started
 
